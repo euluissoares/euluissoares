@@ -9,7 +9,13 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=18&color=currentColor" />
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=18&color=currentColor" />
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src= "https://icongr.am/devicon/css3-original.svg?size=18&color=currentColor" />
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=34&color=currentColor" />
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=34&color=currentColor" />
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src= "https://icongr.am/devicon/css3-original.svg?size=34&color=currentColor" />
+  <br><br>
           
+
+<br>
+<div>
+  <a href="www.linkedin.com/in/euluissoares" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?stylefor-the-badge&logolinkedin&logoColorwhite" target="_blank"></a>
+  
